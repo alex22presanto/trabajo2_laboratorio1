@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1557457276 source:/media/alumno/KINGSTON/trabajo2_laboratorio1/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1557457276 
+
+1557457236 /media/alumno/KINGSTON/trabajo2_laboratorio1/utn.h
+
+1557457276 source:d:\trabajo2_laboratorio1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1557457236 d:\trabajo2_laboratorio1\utn.h
+
+1557524950 source:d:\trabajo2_laboratorio1\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"employees.h"
+
+1557527136 .h"
+
+1557527624 d:\trabajo2_laboratorio1\employees.h
+
+1557527136 source:d:\trabajo2_laboratorio1\employees.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"employees.h"
+
+1557527136 source:/media/alumno/KINGSTON/trabajo2_laboratorio1/employees.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"employees.h"
+
+1557527624 /media/alumno/KINGSTON/trabajo2_laboratorio1/employees.h
+
+1560829343 source:c:\users\denise presanto\desktop\trabajo2_laboratorio1\employees.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"employees.h"
+
+1557457236 c:\users\denise presanto\desktop\trabajo2_laboratorio1\utn.h
+
+1560829288 c:\users\denise presanto\desktop\trabajo2_laboratorio1\employees.h
+
+1560829538 source:c:\users\denise presanto\desktop\trabajo2_laboratorio1\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"employees.h"
+
+1557457276 source:c:\users\denise presanto\desktop\trabajo2_laboratorio1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
